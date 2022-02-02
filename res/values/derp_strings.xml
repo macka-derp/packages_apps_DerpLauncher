@@ -61,4 +61,9 @@
     <string name="custom_seekbar_default_value">by default</string>
     <string name="custom_seekbar_default_value_to_set">Default value: <xliff:g id="v">%s</xliff:g>\nLong tap to set</string>
     <string name="custom_seekbar_default_value_is_set">Default value is set</string>
+
+    <!-- Hotseat searchbar -->
+    <string name="label_search">Search</string>
+    <string name="label_lens">Google Lens</string>
+    <string name="label_voice_search">Voice search</string>
 </resources>
