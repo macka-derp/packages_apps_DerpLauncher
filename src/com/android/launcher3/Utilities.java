@@ -26,6 +26,7 @@ import android.annotation.TargetApi;
 import android.app.ActivityManager;
 import android.app.Person;
 import android.app.WallpaperManager;
+import android.content.SharedPreferences;
 import android.content.Context;
 import android.content.pm.LauncherActivityInfo;
 import android.content.pm.LauncherApps;
