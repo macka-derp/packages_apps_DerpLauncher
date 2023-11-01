@@ -383,7 +383,6 @@ android_app {
         enabled: false,
     },
 
-    certificate: "platform",
     platform_apis: true,
     certificate: "platform",
 
